@@ -9,7 +9,7 @@ print(f"Running Version {VERSION}")
 
 while True:
     led.on()
-    sleep(0.2)
+    sleep(10)
     led.off()
-    sleep(0.2) 
+    sleep(10) 
  
