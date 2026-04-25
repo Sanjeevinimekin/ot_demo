@@ -1,7 +1,7 @@
 from gpiozero import LED
 from time import sleep
 
-VERSION = "1.0"
+# VERSION = "2.0"
 
 led = LED(17)
 
